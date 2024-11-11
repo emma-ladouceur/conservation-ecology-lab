@@ -3,7 +3,7 @@ title: Richard Feynman
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
-url: ""
+url: "https://conservation-ecology-lab.github.io/"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -62,8 +62,8 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Ladouceur
+  first_name: [Emma]
 
   style: citesty
   locale: en
